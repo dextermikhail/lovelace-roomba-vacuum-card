@@ -1,0 +1,3 @@
+resources:
+  - type: module
+    url: /hacsfiles/lovelace-roomba-vacuum-card/roomba-vacuum-card.js
